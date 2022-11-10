@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/nehanawar025/product-preview-card-component)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://fantastic-vacherin-f50301.netlify.app/)
 
 
 ## My process
