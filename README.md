@@ -13,9 +13,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](/product-preview-card-component-main/images/Screenshot_Desktop.pngimages/Screenshot_Desktop.jpg)
-![](/product-preview-card-component-main/images/Screenshot_mobile.pngimages/Screenshot_Desktop.jpg)
+![](/images/Screenshot_Desktop.png)
+![](/images/Screenshot_mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/nehanawar025/product-preview-card-component)
+- Live Site URL: [Live site URL](https://your-live-site-url.com)
 
 
 ## My process
